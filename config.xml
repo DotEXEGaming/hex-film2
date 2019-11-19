@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmnls       = "https://www.w3.org/ns/widgets"
+        xmnls:gap   = "https://phonegab.com/ns/1.0"
+        id          = "com.raulpeica.Requirements"
+        versionCode = "1"
+        version     = "1.0.0" >
+
+    <name>Requirements</name>
+
+    <description>Requirements for all viewers or nearby bystanders including all crew.</description>
+
+    <author href = "https://blankslate.io" email = "peicabalosache@gmail.com">
+       Raul Peica
+    </author>
+
+    <preference name = "orientation" value = "portrait" />
+
+    <preference name = "fullscreen" value = "true" />
+
+</widget>
