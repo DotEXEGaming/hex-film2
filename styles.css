@@ -1,0 +1,38 @@
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+}
+table {
+  width: 100%;
+}
+
+th {
+  height: 75px;
+  text-align: center;
+}
+body {
+  background-color: #182628;
+}
+h1 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+h1
+{
+text-align:center;
+font-family:"verdana";
+font-size:200px;
+}
+p
+{
+text-align:center;
+font-family:"arial";
+font-size:35px;
+}
+tr:hover {background-color:#ffffff;}
+th {
+ background-color: #000000;
+ color: black;
+}
