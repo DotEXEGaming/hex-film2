@@ -4,7 +4,7 @@
         xmnls:gap   = "https://phonegab.com/ns/1.0"
         id          = "com.raulpeica.Requirements"
         versionCode = "1"
-        version     = "1.0.0" >
+        version     = "1.0.0">
 
     <name>Requirements</name>
 
